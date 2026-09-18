@@ -1,0 +1,504 @@
+[
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático.",
+    "estado_expediente": "En revisión"
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático.",
+    "estado_expediente": "Canalizado"
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "fecha_registro": "2026-09-15 16:34:05",
+    "texto_original": "Anoche caminando por plaza mayor un sujeto de piel se acerco a mi con una navaja y me robo mi mochila",
+    "codigo_agente": "POL-98765",
+    "razonamiento_cot": "Hechos: Robo con violencia con arma blanca (navaja) a ciudadano en plaza mayor. Factores de riesgo: Violencia física inminente, uso de arma blanca, sospechoso en la zona. Asignación: Se determina prioridad 5 (Crítica) debido al riesgo vital inminente y el uso de arma blanca. Departamento: Unidad de Robos con Violencia.",
+    "categoria": "Robo con violencia / Arma blanca",
+    "nivel_urgencia": 5,
+    "resumen_10_palabras": "Robo con navaja en plaza mayor.",
+    "departamento_asignado": "Unidad de Robos con Violencia",
+    "factores_riesgo": [
+      "Violencia física",
+      "Arma blanca",
+      "Riesgo vital inminente"
+    ],
+    "metricas": {
+      "tokens_entrada": 1262,
+      "tokens_salida": 216,
+      "latencia_segundos": 136.623,
+      "coste_estimado_usd": 0.0
+    },
+    "estado_expediente": "Canalizado",
+    "resolucion_final": "nan",
+    "observaciones_operador": "nan"
+  },
+  {
+    "fecha_registro": "2026-09-15 16:59:09",
+    "nombre_oficial": "Carlos Rodríguez",
+    "texto_original": "Ayer por la noche mi esposo latino me ha golpeado y tengo miedo de que hoy vuelva a suceder asi que quiero que venga una patrulla a por el. Vivo en getafe",
+    "codigo_agente": "POL-98765",
+    "razonamiento_cot": "Hechos: Violencia física contra la autoridad de familia. Factores de riesgo: Violencia física inminente, amenaza de repetición del incidente. Asignación: Prioridad 4 (Alta) debido al riesgo de lesiones físicas y la amenaza de repetición del incidente. Departamento: Unidad de Violencia Doméstica.",
+    "categoria": "Violencia Doméstica",
+    "nivel_urgencia": 4,
+    "resumen_10_palabras": "Violencia física contra la autoridad de familia en Getafe.",
+    "departamento_asignado": "Unidad de Violencia Doméstica",
+    "factores_riesgo": [
+      "Violencia física",
+      "Amenaza de repetición",
+      "Riesgo vital inminente"
+    ],
+    "metricas": {
+      "tokens_entrada": 1274,
+      "tokens_salida": 203,
+      "latencia_segundos": 93.685,
+      "coste_estimado_usd": 0.0
+    }
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "fecha_registro": "2026-09-17 12:38:57",
+    "nombre_oficial": "Carlos Rodríguez",
+    "texto_original": "Ayer por la noche andando por Leganes ha llegado un moro y me amenazado con una navaja para que le diera el movil y se lo he entragado",
+    "codigo_agente": "POL-98765",
+    "razonamiento_cot": "Hechos: Amenaza con arma blanca (navaja) y robo de móvil por parte de un sospechoso en Leganes. Factores de riesgo: Violencia física inminente, uso de arma blanca, amenaza directa. Asignación: Se determina prioridad 5 (Crítica) debido al riesgo vital inminente y el uso de arma blanca. Departamento: Unidad de Operaciones Especiales.",
+    "categoria": "Amenaza con arma blanca / Robo",
+    "nivel_urgencia": 5,
+    "resumen_10_palabras": "Amenaza con navaja y robo de móvil en Leganes.",
+    "departamento_asignado": "Unidad de Operaciones Especiales",
+    "factores_riesgo": [
+      "Uso de arma blanca",
+      "Amenaza directa",
+      "Riesgo vital inminente"
+    ],
+    "metricas": {
+      "tokens_entrada": 1269,
+      "tokens_salida": 230,
+      "latencia_segundos": 126.061,
+      "coste_estimado_usd": 0.0
+    }
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "fecha_registro": "2026-09-17 13:02:51",
+    "nombre_oficial": "María Gómez",
+    "texto_original": "Hoy por la mañana he salido a trotar, luego de vuelta a casa pare en un cafe y en la mesa del cafe he dejado la billetera y al volver no estaba",
+    "codigo_agente": "POL-12345",
+    "razonamiento_cot": "Hechos: Billetera perdida en un café. Factores de riesgo: Pérdida de propiedad sin violencia ni riesgo físico inminente. Asignación: Prioridad 1 (Mínima) debido a la naturaleza pasiva y la ausencia de riesgo inmediato. Departamento: Unidad de Pérdidas y Encontrados.",
+    "categoria": "Pérdida de propiedad",
+    "nivel_urgencia": 1,
+    "resumen_10_palabras": "Billetera perdida en café.",
+    "departamento_asignado": "Unidad de Pérdidas y Encontrados",
+    "factores_riesgo": [
+      "Pérdida de propiedad",
+      "Sin violencia",
+      "Sin riesgo físico"
+    ],
+    "metricas": {
+      "tokens_entrada": 1269,
+      "tokens_salida": 198,
+      "latencia_segundos": 107.489,
+      "coste_estimado_usd": 0.0
+    }
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "fecha_registro": "2026-09-17 14:47:28",
+    "nombre_oficial": "María Gómez",
+    "texto_original": "Necesito una ambulancia urgente, estaba caminando por el retiro y me he caido y me he hecho daño en el tobillo y no puedo caminar\n",
+    "codigo_agente": "POL-12345",
+    "razonamiento_cot": "Hechos: Caída y lesión en el tobillo mientras caminaba por el Retiro. Factores de riesgo: Riesgo vital inminente debido a la lesión y la incapacidad para caminar. Asignación: Prioridad 5 (Crítica) debido al riesgo de lesiones físicas y la necesidad inmediata de atención médica. Departamento: Unidad de Urgencias Médicas.",
+    "categoria": "Lesión / Riesgo vital inminente",
+    "nivel_urgencia": 5,
+    "resumen_10_palabras": "Caída y lesión en el tobillo en el Retiro.",
+    "departamento_asignado": "Unidad de Urgencias Médicas",
+    "factores_riesgo": [
+      "Riesgo vital inminente",
+      "Lesión física",
+      "Incapacidad para caminar"
+    ],
+    "metricas": {
+      "tokens_entrada": 1269,
+      "tokens_salida": 219,
+      "latencia_segundos": 46.51,
+      "coste_estimado_usd": 0.0
+    },
+    "estado_expediente": "Canalizado",
+    "resolucion_final": "Hemos enviado una patrulla e informado a los paramedicos para que se aproximaran y atendieran al herido. ",
+    "observaciones_operador": "Herido presentaba lesion por caida en el retiro. Acudimos una patrulla y 2 oficiales de servicio, luego de informar a los paramedicos de aproximarse al lugar"
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "fecha_registro": "2026-09-17 15:10:56",
+    "nombre_oficial": "María Gómez",
+    "texto_original": "Alguien ha entrado a mi casa, por favor venir cuantos antes. Vivo en parla, por la zona del renfe",
+    "codigo_agente": "POL-12345",
+    "razonamiento_cot": "Hechos: Intrusión en vivienda. Factores de riesgo: Posible robo o vandalismo. Asignación: Prioridad 4 (Alta) debido al riesgo de lesiones físicas y la urgencia de intervención. Departamento: Unidad de Robos con Violencia.",
+    "categoria": "Intrusión en vivienda",
+    "nivel_urgencia": 4,
+    "resumen_10_palabras": "Intrusión en vivienda en Parla, zona del Renfe.",
+    "departamento_asignado": "Unidad de Robos con Violencia",
+    "factores_riesgo": [
+      "Intrusión",
+      "Riesgo de lesiones físicas"
+    ],
+    "metricas": {
+      "tokens_entrada": 1258,
+      "tokens_salida": 184,
+      "latencia_segundos": 108.103,
+      "coste_estimado_usd": 0.0
+    }
+  },
+  {
+    "fecha_registro": "2026-09-17 15:37:53",
+    "nombre_oficial": "María Gómez",
+    "texto_original": "Un negro estaba robando una fruteria en leganes. Envien una patrulla. Se fue corriendo por la calle del renfe",
+    "codigo_agente": "POL-12345",
+    "razonamiento_cot": "Hechos: Robo a una frutería en Leganes. Factores de riesgo: Sospechoso en huida, posible uso de armas (no especificado). Asignación: Prioridad 4 (Alta) debido al riesgo de lesiones físicas y la inmediatez del hecho. Departamento: Unidad de Robos con Violencia.",
+    "categoria": "Robo con violencia / Tirón",
+    "nivel_urgencia": 4,
+    "resumen_10_palabras": "Robo a frutería en Leganes, sospechoso en huida.",
+    "departamento_asignado": "Unidad de Robos con Violencia",
+    "factores_riesgo": [
+      "Sospechoso en huida",
+      "Riesgo de lesiones físicas"
+    ],
+    "metricas": {
+      "tokens_entrada": 1260,
+      "tokens_salida": 210,
+      "latencia_segundos": 115.942,
+      "coste_estimado_usd": 0.0
+    }
+  },
+  {
+    "fecha_registro": "2026-09-17 16:37:33",
+    "nombre_oficial": "Carlos Rodríguez",
+    "texto_original": "Anoche se han robado mi coche, justo vivo en Leganes por la calle principal. La matricula es WER-123",
+    "codigo_agente": "POL-98765",
+    "razonamiento_cot": "Hechos: Robo de vehículo en Leganes. Factores de riesgo: Vehículo robado, matrícula conocida, hecho reciente. Asignación: Prioridad 4 (Alta) debido al riesgo de pérdida de propiedad y la inmediatez del hecho. Departamento: Unidad de Robos con Violencia.",
+    "categoria": "Robo de vehículo",
+    "nivel_urgencia": 4,
+    "resumen_10_palabras": "Robo de coche en Leganes.",
+    "departamento_asignado": "Unidad de Robos con Violencia",
+    "factores_riesgo": [
+      "Vehículo robado",
+      "Matrícula conocida",
+      "Hecho reciente"
+    ],
+    "metricas": {
+      "tokens_entrada": 1260,
+      "tokens_salida": 192,
+      "latencia_segundos": 97.263,
+      "coste_estimado_usd": 0.0
+    }
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "fecha_registro": "2026-09-18 13:59:22",
+    "nombre_oficial": "Carlos Rodríguez",
+    "texto_original": "Estaba trotando por el retiro y un moro me ataco con una navaja para llevarse mi movil. Por favor acudir rapido, el se fue corriendo con mi movil y estoy herido ",
+    "codigo_agente": "POL-98765",
+    "razonamiento_cot": "Hechos: Agresión con arma blanca (navaja) y robo de teléfono móvil en curso o inmediatamente anterior, con la víctima herida pidiendo auxilio urgente. Factores de riesgo: Uso de arma blanca, agresión física con resultado de lesiones a la víctima y necesidad de asistencia médica urgente. Asignación: Prioridad 5 (Crítica) debido al riesgo vital inminente, uso de arma blanca y agresión con lesiones activas. Departamento: Brigada de Delitos Violentos / UPR.",
+    "categoria": "Robo con violencia con arma blanca y lesiones",
+    "nivel_urgencia": 5,
+    "resumen_10_palabras": "Ataque con navaja, robo de móvil y víctima herida.",
+    "departamento_asignado": "Brigada de Delitos Violentos",
+    "factores_riesgo": [
+      "Uso de arma blanca",
+      "Agresión física",
+      "Víctima herida",
+      "Riesgo vital inminente"
+    ],
+    "metricas": {
+      "tokens_entrada": 1163,
+      "tokens_salida": 258,
+      "latencia_segundos": 12.114,
+      "coste_estimado_usd": 0.00089
+    }
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "fecha_registro": "2026-09-18 14:37:01",
+    "nombre_oficial": "María Gómez",
+    "texto_original": "Hoy por la mañana han robado mi local. Es una alimentacion en getafe. Eran 2 chicos latinos. Se fueron en una moto roja",
+    "codigo_agente": "POL-12345",
+    "razonamiento_cot": "Hechos: Robo en establecimiento comercial (alimentación) ocurrido por la mañana, sin presencia actual de los autores ni riesgo vital o violencia física inminente. Factores de riesgo: Delito contra el patrimonio pasado, sin armas ni agresión en curso. Asignación: Prioridad 2 (Baja) por tratarse de un hecho pasado sin riesgo físico ni sospechosos en la escena. Departamento: Unidad de Delitos contra el Patrimonio.",
+    "categoria": "Robo con fuerza en establecimiento",
+    "nivel_urgencia": 2,
+    "resumen_10_palabras": "Robo en local comercial de alimentación cometido por la mañana.",
+    "departamento_asignado": "Unidad de Delitos contra el Patrimonio",
+    "factores_riesgo": [
+      "Delito contra el patrimonio",
+      "Hecho pasado sin riesgo físico"
+    ],
+    "metricas": {
+      "tokens_entrada": 1152,
+      "tokens_salida": 222,
+      "latencia_segundos": 7.459,
+      "coste_estimado_usd": 0.000855
+    }
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático.",
+    "estado_expediente": "Canalizado"
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "fecha_registro": "2026-09-18 16:35:56",
+    "nombre_oficial": "María Gómez",
+    "texto_original": "Han asaltado el McDonalds de gran via. Los sujetos huyeron en una moto de alta cilindrada de color rojo",
+    "estado_expediente": "Canalizado",
+    "codigo_agente": "POL-12345",
+    "razonamiento_cot": "Hechos: Asalto a McDonalds con huida en moto de alta cilindrada roja. Factores de riesgo: Riesgo vital inminente debido a la huida en moto, sospechoso en huida. Asignación: Prioridad 5 (Crítica) debido al riesgo vital inminente y uso de moto, lo que implica un riesgo de agresión grave en curso. Departamento: Unidad de Operaciones Especiales.",
+    "categoria": "Asalto / Huida en moto",
+    "nivel_urgencia": 5,
+    "resumen_10_palabras": "Asalto a McDonalds con huida en moto roja.",
+    "departamento_asignado": "Unidad de Operaciones Especiales",
+    "factores_riesgo": [
+      "Riesgo vital inminente",
+      "Uso de moto",
+      "Sospechoso en huida"
+    ],
+    "metricas": {
+      "tokens_entrada": 1437,
+      "tokens_salida": 231,
+      "latencia_segundos": 119.021,
+      "coste_estimado_usd": 0.0
+    },
+    "resolucion_final": "2 patrullas aprendieron a los delicuentes un par de manzanos tratando de esconderse en un parking subterraneo. Un civil aviso acerca de la situacion y eso ayudo a encontrarlos ",
+    "observaciones_operador": "2 patrullas, 4 efectivos policiales. Medio dia de trabajo y 2 sospechosos detenidos en comisaria en espera de juzgados"
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-22222",
+    "categoria": "Test Robo",
+    "nivel_urgencia": 3,
+    "departamento_asignado": "Unidad de Robos",
+    "resumen_10_palabras": "Prueba de resolución final.",
+    "estado_expediente": "Canalizado",
+    "resolucion_final": "Se derivó la denuncia a la unidad de robos y se cerró la intervención.",
+    "observaciones_operador": "Se verificó la identidad del denunciante y el caso quedó resuelto."
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-22222",
+    "categoria": "Test Robo",
+    "nivel_urgencia": 3,
+    "departamento_asignado": "Unidad de Robos",
+    "resumen_10_palabras": "Prueba de resolución final.",
+    "estado_expediente": "Canalizado",
+    "resolucion_final": "Se derivó la denuncia a la unidad de robos y se cerró la intervención.",
+    "observaciones_operador": "Se verificó la identidad del denunciante y el caso quedó resuelto."
+  },
+  {
+    "fecha_registro": "2026-09-18 17:07:26",
+    "nombre_oficial": "María Gómez",
+    "texto_original": "Me han hurtado mi billetera sin darme cuenta caminando por sol. Tenia todas mis tarjetas y documentacion",
+    "estado_expediente": "En revisión",
+    "codigo_agente": "POL-12345",
+    "razonamiento_cot": "Hechos: Hurto de billetera con tarjetas y documentación sin violencia ni intimidación mientras la víctima caminaba. Factores de riesgo: Ausencia de violencia física, armas o riesgo vital; el delito ya ha ocurrido y el autor no está presente ni hay agresión en curso. Asignación: Prioridad 2 (Baja) por tratarse de un hurto pasivo sin riesgo físico ni sospechoso en la escena requiriendo acción inmediata. Departamento: Unidad de Hurtos y Delitos Menores.",
+    "categoria": "Hurto / Pérdida de efectos",
+    "nivel_urgencia": 2,
+    "resumen_10_palabras": "Hurto de billetera con tarjetas y documentación caminando por Sol.",
+    "departamento_asignado": "Unidad de Hurtos y Delitos Menores",
+    "factores_riesgo": [
+      "Pérdida patrimonial",
+      "Sin violencia"
+    ],
+    "metricas": {
+      "tokens_entrada": 1296,
+      "tokens_salida": 238,
+      "latencia_segundos": 20.571,
+      "coste_estimado_usd": 0.000953
+    }
+  },
+  {
+    "fecha_registro": "2026-09-18 17:07:39",
+    "nombre_oficial": "María Gómez",
+    "texto_original": "Me han hurtado mi billetera sin darme cuenta caminando por sol. Tenia todas mis tarjetas y documentacion",
+    "estado_expediente": "Canalizado",
+    "codigo_agente": "POL-12345",
+    "razonamiento_cot": "Hechos: Hurto de billetera con tarjetas y documentación sin violencia ni intimidación mientras la víctima caminaba. Factores de riesgo: Ausencia de violencia física, armas o riesgo vital; el delito ya ha ocurrido y el autor no está presente ni hay agresión en curso. Asignación: Prioridad 2 (Baja) por tratarse de un hurto pasivo sin riesgo físico ni sospechoso en la escena requiriendo acción inmediata. Departamento: Unidad de Hurtos y Delitos Menores.",
+    "categoria": "Hurto / Pérdida de efectos",
+    "nivel_urgencia": 2,
+    "resumen_10_palabras": "Hurto de billetera con tarjetas y documentación caminando por Sol.",
+    "departamento_asignado": "Unidad de Hurtos y Delitos Menores",
+    "factores_riesgo": [
+      "Pérdida patrimonial",
+      "Sin violencia"
+    ],
+    "metricas": {
+      "tokens_entrada": 1296,
+      "tokens_salida": 238,
+      "latencia_segundos": 20.571,
+      "coste_estimado_usd": 0.000953
+    },
+    "resolucion_final": "1 patrulla consiguio al ladron de la cartera y los documentos y luego han hecho entrega de ella a comisaria en la cual pudimos contacta con su respectivo dueño y devolver su cartera y su contenido completo",
+    "observaciones_operador": "1 patrulla y 2 efectivos en activo aprendieron al delincuente que habia estado por la zona. En espera de juzgado para procesarlo. Estado actual: comisaria"
+  },
+  {
+    "codigo_agente": "POL-11111",
+    "categoria": "Test Vandalismo",
+    "nivel_urgencia": 2,
+    "departamento_asignado": "Seguridad Ciudadana",
+    "resumen_10_palabras": "Prueba de guardado automático."
+  },
+  {
+    "codigo_agente": "POL-22222",
+    "categoria": "Test Robo",
+    "nivel_urgencia": 3,
+    "departamento_asignado": "Unidad de Robos",
+    "resumen_10_palabras": "Prueba de resolución final.",
+    "estado_expediente": "Canalizado",
+    "resolucion_final": "Se derivó la denuncia a la unidad de robos y se cerró la intervención.",
+    "observaciones_operador": "Se verificó la identidad del denunciante y el caso quedó resuelto."
+  }
+]

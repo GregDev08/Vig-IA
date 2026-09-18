@@ -1,0 +1,20 @@
+[
+  {
+    "codigo_agente": "POL-98765",
+    "nombre": "Carlos",
+    "apellido": "Rodríguez",
+    "pin": "1234"
+  },
+  {
+    "codigo_agente": "POL-12345",
+    "nombre": "María",
+    "apellido": "Gómez",
+    "pin": "5678"
+  },
+  {
+    "codigo_agente": "POL-40506",
+    "nombre": "Javier",
+    "apellido": "Pérez",
+    "pin": "9999"
+  }
+]
